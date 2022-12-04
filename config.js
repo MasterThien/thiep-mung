@@ -2,7 +2,7 @@ const nameGirl = 'Happy Birthday';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'click vào ddi';
 const titleCard = '05/12/2003';
-const contentCard = '“Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday!” ...🍰🍻🎉🎊 ';
+const contentCard = '“Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday Hoai Phuong” ...🍰🍻🎉🎊 ';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
